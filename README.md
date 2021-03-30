@@ -1,7 +1,10 @@
 # geospatial_health
 Geospatial analysis about the distribution of anaemia in children under 5 years old in Ghana
 
-Exploratory Geospatial Analysis of Urbanicity=A map showing the distribution of built environment in Ghana as 2014
+Map1-Exploratory Geospatial Analysis of Urbanicity
+A map showing the distribution of built environment in Ghana as 2014
+
+Map2
 Choropleth map= Geographic variation of Anaemia in Ghanaian children
 
 Start with the Tmap R script in the Ama_GHSL_2014 folder
